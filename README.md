@@ -1,5 +1,7 @@
 # CSGO_project
 
+![CSGO_pic](https://github.com/rajiv07rawat/CSGO_project/assets/65860146/ab301493-f7a4-4157-ab69-6408fd99fe33)
+
 Objective - CS:GO Round Winner Classification
 
 About
